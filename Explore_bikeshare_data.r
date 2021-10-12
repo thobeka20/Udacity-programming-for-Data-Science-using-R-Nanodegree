@@ -57,7 +57,7 @@ colnames(my.summary) <- c('City', 'Average.Trip.Duration')
 my.summary
 
 From the results shown, Washington has more average travel duration of users , followed by
-Chicago and lastly New York.These also could be influenced by seasonal changes. people travel more when it is summer 
+Chicago and lastly New York.This also could be influenced by seasonal changes. People travel more when it is summer. 
 
 # Creating new data frame by binding 'New York City' and 'Chicago' data
 # washington is omitted due to the lack of information (birth year and Gender)
