@@ -114,7 +114,7 @@ source("http://pcwww.liv.ac.uk/~william/R/crosstab.r")
 
 crosstab(df, row.vars = "Month")
 
-# Count of users per month by grouped by cities
+# Count of users per month grouped by cities
 crosstab(df, row.vars = "Month", col.vars = "City")
 
 # Percentage of users per month by grouped by cities
