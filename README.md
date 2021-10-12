@@ -7,11 +7,12 @@
 Programming with R, udacity Github project
 
 ### Description
-Describe what your project is about and what it does
+In this project, making use of of R to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. BY wririting code to import the data and answer questions generated and computing descriptive statistics and making visualizations!
 
 ### Files used
-Include the files used
+R-studio
+Jupiter
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Resources
+https://stackoverflow.com/questions/39267614/csv-file-does-not-exist-for-a-filename-with-embedded-quotes
 
